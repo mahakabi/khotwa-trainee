@@ -1,6 +1,6 @@
 # Khotwa Trainee Project
 
-Welcome to the **Khotwa Trainee Project**! This project is designed for trainees to create a **mini product**, honing their skills in development, problem-solving, and innovation.
+Welcome to the **Khotwa Trainee Project**! This project is designed for trainees to create a **mini product**, honing their skills in development, problem-solving, and innovation. this product will be dileverd in **2 January 2025** by Khotwa trainee.
 
 ## Objective
 
