@@ -1,4 +1,4 @@
-# Khotwa Trainee Project
+# Khotwa Trainee Project ✨
 
 Welcome to the **Khotwa Trainee Project**! This project is designed for trainees to create a **mini product**, honing their skills in development, problem-solving, and innovation. this product will be dileverd in **2 January 2025** by Khotwa trainee.
 
@@ -36,4 +36,4 @@ The goal of this project is to:
 
 For any questions or assistance, feel free to reach out to the Khotwa training team. 
 
-Happy coding!
+Happy coding! 🥳🎉
