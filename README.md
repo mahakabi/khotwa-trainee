@@ -13,13 +13,13 @@ The goal of this project is to:
 ## Project Requirements
 
 1. **Mini Product Idea**:
+
    - The trainee must brainstorm and propose a concept for their mini product.
    - The product should solve a specific problem or meet a user need.
 
 2. **Development**:
    - Implement the product using the provided tools and technologies.
    - Follow best practices for clean and maintainable code.
-
 
 ## Guidelines
 
@@ -34,6 +34,6 @@ The goal of this project is to:
 
 ## Support
 
-For any questions or assistance, feel free to reach out to the Khotwa training team. 
+For any questions or assistance, feel free to reach out to the Khotwa training team.
 
 Happy coding! 🥳🎉
