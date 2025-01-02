@@ -1,0 +1,67 @@
+/* General container styling */
+.container {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .question {
+    margin-bottom: 20px;
+  }
+  
+  .question p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .btn,
+  .scale-btn,
+  .next-btn {
+    padding: 10px 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    margin-right: 5px;
+  }
+  
+  .btn.selected,
+  .scale-btn.selected-scale {
+    background-color: blue;
+    color: white;
+  }
+  
+  .scale-btn {
+    margin: 5px;
+    width: 40px;
+    height: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .next-btn {
+    margin-top: 20px;
+    background-color: green;
+    color: white;
+    border: none;
+  }
+  
+  .next-btn:hover {
+    background-color: darkgreen;
+  }
+  
+  .btn:hover,
+  .scale-btn:hover {
+    background-color: lightgray;
+  }
+  
