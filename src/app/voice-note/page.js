@@ -1,3 +1,3 @@
-export default function voiceNote() {
-  return <p>Hello, here is the voice note</p>;
+export default function reportGeneration() {
+  return <p>Here </p>;
 }
